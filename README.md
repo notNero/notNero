@@ -1,1 +1,1 @@
-![Snake animation](https://raw.githubusercontent.com/notNero/notNero/refs/heads/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/notNero/notNero/refs/heads/output/snake-dark.svg)
