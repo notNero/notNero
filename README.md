@@ -1,1 +1,1 @@
-![Snake animation](/../../output/snake.svg)
+![Snake animation](https://githubusercontent.com)
